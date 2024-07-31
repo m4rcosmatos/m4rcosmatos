@@ -1,7 +1,7 @@
 
 ### OLá! Eu sou o Marcos ✋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-matos-4b5a57244/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-antonio-de-matos-sousa-4b5a57244/)
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=m4rcosmatos&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcosmatos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
